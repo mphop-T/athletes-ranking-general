@@ -1,4 +1,4 @@
-# athletes-ranking
+# athletes-ranking-general
 
 Code for *Data-Driven Athlete Ranking Using Learning-to-Rank and Regression Models*. The project ranks senior men's and women's 100 m sprint athletes within each event, using only information available before the event. It compares three learning-to-rank (LTR) models with a regression baseline:
 
